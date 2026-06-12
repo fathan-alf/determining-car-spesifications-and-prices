@@ -114,7 +114,7 @@ Predicting the price of a car based on user-defined specifications (Engine size,
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/determining-car-specifications-and-prices.git
+   git clone https://github.com/fathan-alf/determining-car-specifications-and-prices.git
    cd determining-car-specifications-and-prices
    ```
 
